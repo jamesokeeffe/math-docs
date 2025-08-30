@@ -45,9 +45,12 @@ This guide takes you from mathematical foundations to implementing modern ML mod
 
 ## 🚀 Quick Start
 
-1. **Prerequisites**: Basic Python, some exposure to calculus and linear algebra
-2. **Setup**: `pip install -r requirements.txt`
-3. **Start Learning**: Begin with [Step 1: Linear Algebra](lessons/01_linear_algebra.md)
+1. **Complete Setup Guide**: See [GETTING_STARTED.md](GETTING_STARTED.md) for detailed setup and learning path
+2. **Prerequisites**: Basic Python, some exposure to calculus and linear algebra  
+3. **Setup**: `pip install -r requirements.txt`
+4. **Start Learning**: Begin with [Step 1: Linear Algebra](lessons/01_linear_algebra.md)
+
+📖 **New to this material?** Follow the [comprehensive getting started guide](GETTING_STARTED.md) for a structured learning experience.
 
 ## 📁 Repository Structure
 
