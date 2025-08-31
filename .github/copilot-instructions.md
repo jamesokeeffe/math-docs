@@ -266,6 +266,7 @@ The repository uses these main packages (see requirements.txt):
 4. **Validate with manual scenarios after each change**
 5. **Use Jupyter Lab for interactive development and visualization**
 6. **Follow educational code style**: clear comments, mathematical explanations, step-by-step breakdowns
+7. **Use .gitignore to exclude build artifacts**: venv/, *.png, __pycache__/, etc. are already configured
 
 ## Emergency Troubleshooting
 
